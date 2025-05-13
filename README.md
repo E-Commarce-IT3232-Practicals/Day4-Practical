@@ -1,4 +1,4 @@
-# IT3232 E-Commerce Practicals - Day 4 - 2025-04-04 📚🚀
+# Day 4 - Student Management System- 2025-04-04 📚🚀
 
 ## 📝 Project Overview
 
